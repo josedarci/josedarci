@@ -5,7 +5,7 @@
 
 - 🔥 Web Front-end and Back-end Developer
 
-- 🔭 I’m currently working at [GPA](https://www.josedarci.com)
+- 🔭 I’m currently working at [JOSEDARCI.COM](https://www.josedarci.com)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Angular, React**,Vue.js, C#,Java, Kotlin and PHP
 
