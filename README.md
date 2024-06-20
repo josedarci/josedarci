@@ -32,7 +32,7 @@
 ![iOS](https://img.shields.io/badge/-IOS-05122A?style=flat&logo=IOS)&nbsp;
 ![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
 <br><br>
 <br><br>
 
