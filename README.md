@@ -31,6 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![iOS](https://img.shields.io/badge/-IOS-05122A?style=flat&logo=IOS)&nbsp;
 ![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 
 <br><br>
 <br><br>
