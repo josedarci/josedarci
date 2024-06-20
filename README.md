@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [JDTI Serviços de Informática](https://www.josedarci.com.br)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Angular, React**,Vue.js, C#,Java and PHP
+- 💬 Ask me about **JavaScript, HTML, CSS, Angular, React**,Vue.js, C#,Java, Kotlin and PHP
 
 <br><br>
 
